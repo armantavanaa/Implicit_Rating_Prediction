@@ -9,4 +9,4 @@ In this repo I worked with a classmate to write models in order to predict impli
 5. During these project we worked on hyperparameter tuning in order to achieve the most optimized models. Hyperparameters such as embedding size, learning rate, weight decay, number of epochs and more.
 6. Lastly we used ensembling (similar to random forest) and took average of the result of our best matrix factorization and neural network models in order to achieve our best loss (0.4065).
 
-Thanks to my classmate Kaihang Zhao[https://github.com/KaihangZhao] for putting a great effort into this pr
+Thanks to my teammate [Kaihang Zhao](https://github.com/KaihangZhao) for working on this project together.
