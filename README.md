@@ -1,3 +1,4 @@
+<img src="kaggle_standing.png" alt="Alt text" title="Optional title">
 # Implicit Rating Prediction (Kaggle Competition)
 In this repo I worked with a classmate to write models in order to predict implicit ratings. In this real world data from booking.com we have users(travelers) and items (citites) and our goal was to recomond cities to travelers. We were able to achieve a log loss of 0.4065 and ranked third place in the Kaggle competition among 50+ teams. 
 
